@@ -9,8 +9,8 @@ int main() {
   cout << "Care este latura cubului? ";
   cin >> latura;
 
-  volum = (latura * latura * latura);
-  
+  volum = (latura * latura * latura); //trebuie scris in paranteze 
+
   cout << "Volumul cubului este: " << volum << endl;
 
   return 0; 
